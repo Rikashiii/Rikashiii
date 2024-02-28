@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh chandrakar.
-- 👀 I despise snakes but I’m interested in Python.
-- 🌱 I’m currently learning Data Analysis with python
+- 👀 I despise snakes though I like Python.
+- 🌱 I’m currently learning Data Analysis with python.
 - 💞️ I’m looking to collaborate on data analysis and python projects.
 - 📫 How to reach me - email- harshtg9999@gmail.com
 
