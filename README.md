@@ -33,6 +33,9 @@ My toolkit is geared towards the entire data analysis pipeline, from cleaning an
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
 <p align="left">
   <strong>Data Analysis Libraries:</strong><br>
@@ -44,11 +47,12 @@ My toolkit is geared towards the entire data analysis pipeline, from cleaning an
 <p align="left">
   <strong>Visualization & Business Intelligence Tools:</strong><br>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Icon-Black.png" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png" alt="excel" width="40" height="40"/></a>
+</p>
 </p>
 <p align="left">
-  <strong>Databases:</strong><br>
+  <strong>Databases (SQL & NoSQL):</strong><br>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/></a>
@@ -57,6 +61,11 @@ My toolkit is geared towards the entire data analysis pipeline, from cleaning an
   <strong>Cloud & Operating Systems:</strong><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+<p align="left">
+  <strong>Version Control:</strong><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
 
 
