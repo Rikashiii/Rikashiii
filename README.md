@@ -11,13 +11,16 @@
 
 I'm a data enthusiast skilled in transforming raw data into actionable business intelligence. My journey is all about diving into complex datasets to find meaningful patterns that drive decision-making.
 
-- 🔭 I’m currently working on **honing my skills in Big Data Analysis (BDA) with public datasets from sources like Kaggle**.
-- 🌱 I’m currently learning **advanced SQL techniques and interactive dashboarding with tools like Tableau or Power BI**.
-- 👯 I’m looking to collaborate on **end-to-end data analysis projects, especially those involving data visualization and storytelling**.
-- 💬 Ask me about **Python for data analysis, SQL queries, or how to make an effective chart**.
-- 📫 How to reach me: **theharshchandrakar@outlook.com**
-- ⚡ Fun fact: I despise snakes, but I love using Python for data wrangling!
+<br>
 
+**What I'm up to:**
+- 🔭 Honing my skills in Big Data Analysis (BDA) with public datasets from sources like Kaggle.
+- 🌱 Learning advanced SQL and interactive dashboarding with tools like Tableau or Power BI.
+
+**Let's Connect:**
+- 👯 I’m looking to collaborate on end-to-end data analysis projects.
+- 💬 Ask me about Python for data analysis, SQL, or how to make an effective chart!
+- 📫 You can reach me at **theharshchandrakar@outlook.com**.
 ---
 
 ### 🛠️ My Tech Stack & Tools
