@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rikashiii/Rikashiii/blob/1397e0534bbd98f069a39e6cdf302d60f67cda7c/_Dynamic%20tech%20banner%20for%20coding%20profile.%20Abstract%20circuit%20board%20patterns%20and%20glowing%20data%20streams%20in%20dark%20mode%20colors%20(deep%20blues%2C%20purples%2C%20greens).%20Incorporate%20a%20stylized%2C%20subtle%20graphic%20of%20a%20snake%20or%20a%20.jpg" alt="Welcome to my profile!">
+  <img src="https://github.com/Rikashiii/Rikashiii/blob/131a92212736daef9044c49b22b682ab0fe77015/Gemini_Generated_Image_cfuii9cfuii9cfui.png" alt="Welcome to my profile!">
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
