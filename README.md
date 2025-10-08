@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path-to-your-banner-image.com/banner.png" alt="Welcome to my profile!">
+  <img src="[https://path-to-your-banner-image.com/banner.png](https://media.canva.com/v2/image-resize/format:JPG/height:896/quality:92/uri:ifs%3A%2F%2FM%2F5b84a6e4e1ae431b80be4f4cee81bbd2/watermark:F/width:1600?csig=AAAAAAAAAAAAAAAAAAAAAK0lAEbZ5F3wWptKtf5yRhPSUfeSMILtvy-G6lAPsOpC&exp=1759937537&osig=AAAAAAAAAAAAAAAAAAAAAAsF-uar-zd0TDDZGNkacbBYCZq5o3QbNBfYaRWGEKeq&signer=media-rpc&x-canva-quality=screen_3x)" alt="Welcome to my profile!">
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
@@ -21,9 +21,7 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   </p>
 
