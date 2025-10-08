@@ -3,29 +3,46 @@
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
-<h3 align="center">A Python developer passionate about automation and building efficient tools.</h3>
+<h3 align="center">A Data Analyst passionate about uncovering insights and telling stories with data.</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on building my skills in **Python and its libraries**.
-- 🌱 I’m currently learning about **Data Structures, Algorithms, and exploring libraries like Pandas and NumPy**.
-- 👯 I’m looking to collaborate on **open-source Python projects, especially those focused on automation or data analysis**.
+I'm a data enthusiast skilled in transforming raw data into actionable business intelligence. My journey is all about diving into complex datasets to find meaningful patterns that drive decision-making.
+
+- 🔭 I’m currently working on **honing my skills in exploratory data analysis (EDA) with public datasets from sources like Kaggle**.
+- 🌱 I’m currently learning **advanced SQL techniques and interactive dashboarding with tools like Tableau or Power BI**.
+- 👯 I’m looking to collaborate on **end-to-end data analysis projects, especially those involving data visualization and storytelling**.
+- 💬 Ask me about **Python for data analysis, SQL queries, or how to make an effective chart**.
 - 📫 How to reach me: **theharshchandrakar@outlook.com**
-- ⚡ Fun fact: I despise snakes, but I love Python!
+- ⚡ Fun fact: I despise snakes, but I love using Python for data wrangling!
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack & Tools
+
+My toolkit is geared towards the entire data analysis pipeline, from cleaning and manipulation to visualization and reporting.
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  </p>
-
----
+  <strong>Languages:</strong><br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+</p>
+<p align="left">
+  <strong>Data Analysis Libraries:</strong><br>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+</p>
+<p align="left">
+  <strong>Visualization & Business Intelligence Tools:</strong><br>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Icon-Black.png" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/></a>
+</p>
 
 ### 📊 My GitHub Stats
 
