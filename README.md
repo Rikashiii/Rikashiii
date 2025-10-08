@@ -43,8 +43,8 @@ My toolkit is geared towards the entire data analysis pipeline, from cleaning an
 <p align="left">
   <strong>Visualization & Business Intelligence Tools:</strong><br>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Icon-Black.png" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/></a>
+  <a href="https://bi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://myschoolportal.net/blog/download/power-bi-logo/" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.liblogo.com/lib/excel-logo.html" alt="excel" width="40" height="40"/></a>
 </p>
 
 ### 📊 My GitHub Stats
