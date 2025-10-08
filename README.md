@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://path-to-your-banner-image.com/banner.png](https://media.canva.com/v2/image-resize/format:JPG/height:896/quality:92/uri:ifs%3A%2F%2FM%2F5b84a6e4e1ae431b80be4f4cee81bbd2/watermark:F/width:1600?csig=AAAAAAAAAAAAAAAAAAAAAK0lAEbZ5F3wWptKtf5yRhPSUfeSMILtvy-G6lAPsOpC&exp=1759937537&osig=AAAAAAAAAAAAAAAAAAAAAAsF-uar-zd0TDDZGNkacbBYCZq5o3QbNBfYaRWGEKeq&signer=media-rpc&x-canva-quality=screen_3x)" alt="Welcome to my profile!">
+  <img src="https://github.com/Rikashiii/Rikashiii/blob/main/_Dynamic%20tech%20banner%20for%20coding%20profile.%20Abstract%20circuit%20board%20patterns%20and%20glowing%20data%20streams%20in%20dark%20mode%20colors%20(deep%20blues,%20purples,%20greens).%20Incorporate%20a%20stylized,%20subtle%20graphic%20of%20a%20snake%20or%20a%20.jpg?raw=true" alt="Welcome to my profile!">
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
