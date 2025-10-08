@@ -11,7 +11,7 @@
 
 I'm a data enthusiast skilled in transforming raw data into actionable business intelligence. My journey is all about diving into complex datasets to find meaningful patterns that drive decision-making.
 
-- 🔭 I’m currently working on **honing my skills in exploratory data analysis (EDA) with public datasets from sources like Kaggle**.
+- 🔭 I’m currently working on **honing my skills in Big Data Analysis (BDA) with public datasets from sources like Kaggle**.
 - 🌱 I’m currently learning **advanced SQL techniques and interactive dashboarding with tools like Tableau or Power BI**.
 - 👯 I’m looking to collaborate on **end-to-end data analysis projects, especially those involving data visualization and storytelling**.
 - 💬 Ask me about **Python for data analysis, SQL queries, or how to make an effective chart**.
