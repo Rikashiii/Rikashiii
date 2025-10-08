@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rikashiii/Rikashiii/blob/131a92212736daef9044c49b22b682ab0fe77015/Gemini_Generated_Image_cfuii9cfuii9cfui.png" alt="Welcome to my profile!">
+  <img src="[https://github.com/Rikashiii/Rikashiii/blob/131a92212736daef9044c49b22b682ab0fe77015/Gemini_Generated_Image_cfuii9cfuii9cfui.png](https://github.com/Rikashiii/Rikashiii/blob/c1d5f8a209bcc61c326c0663c96eb8c3b86ade7e/Gemini_Generated_Image_cfuii9cfuii9cfui%20(1).png)" alt="Welcome to my profile!">
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
