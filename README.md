@@ -3,64 +3,69 @@
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
-<h3 align="center">A Data Analyst passionate about uncovering insights and telling stories with data.</h3>
+<h3 align="center">A Data Engineer passionate about building robust, scalable data pipelines and managing the full data lifecycle.</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-I'm a data enthusiast skilled in transforming raw data into actionable business intelligence. My journey is all about diving into complex datasets to find meaningful patterns that drive decision-making.
+I'm a data engineer skilled in designing, building, and automating data infrastructure. My focus is on creating reliable and efficient ETL/ELT pipelines to deliver high-quality, analysis-ready data to stakeholders.
 
 <br>
 
 **What I'm up to:**
-- 🔭 Honing my skills in Big Data Analysis (BDA) with public datasets from sources like Kaggle.
-- 🌱 Learning advanced SQL and interactive dashboarding with tools like Tableau or Power BI.
+- 🔭 Building and optimizing data models and ETL/ELT workflows.
+- 🌱 Exploring modern data stack tools like **dbt**, **Apache Airflow**, and **Spark**.
+- ☁️ Expanding my cloud engineering skills, particularly with **AWS** services.
 
 **Let's Connect:**
-- 👯 I’m looking to collaborate on end-to-end data analysis projects.
-- 💬 Ask me about Python for data analysis, SQL, or how to make an effective chart!
+- 👯 I’m looking to collaborate on challenging **data engineering** and **infrastructure** projects.
+- 💬 Ask me about **Python for data pipelines, SQL, database design, or cloud architecture**!
 - 📫 You can reach me at **theharshchandrakar@outlook.com**.
 ---
 
 ### 🛠️ My Tech Stack & Tools
 
-My toolkit is geared towards the entire data analysis pipeline, from cleaning and manipulation to visualization and reporting.
+My toolkit is geared towards the entire data engineering pipeline, from ingestion and storage to transformation and serving.
 
 <p align="left">
   <strong>Languages & Scripting:</strong><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-</p>
-<p align="left">
-  <strong>Data Analysis Libraries:</strong><br>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-</p>
-<p align="left">
-  <strong>Visualization & Business Intelligence Tools:</strong><br>
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png" alt="excel" width="40" height="40"/></a>
-</p>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 </p>
 <p align="left">
   <strong>Databases (SQL & NoSQL):</strong><br>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/></a>
 </p>
 <p align="left">
-  <strong>Cloud & Operating Systems:</strong><br>
+  <strong>Data Processing & Orchestration:</strong><br>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" alt="airflow" width="40" height="40"/></a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+</p>
+<p align="left">
+  <strong>Cloud, Infrastructure & OS:</strong><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+<p align="left">
+  <strong>BI & Visualization Tools:</strong><br>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Icon-Black.png" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
 <p align="left">
   <strong>Version Control:</strong><br>
