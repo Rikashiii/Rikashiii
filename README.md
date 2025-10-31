@@ -3,30 +3,24 @@
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
-<h3 align="center">A Data Engineer passionate about building robust, scalable data pipelines and managing the full data lifecycle.</h3>
+<h3 align="center">Data Engineer 🚀 | I build the pipelines that make insights possible.</h3>
 
 ---
 
-### 🙋‍♂️ About Me
+### 👾 About Me
 
-I'm a data engineer skilled in designing, building, and automating data infrastructure. My focus is on creating reliable and efficient ETL/ELT pipelines to deliver high-quality, analysis-ready data to stakeholders.
+Hey there! I'm a data engineer who loves designing and building the "plumbing" of the data world. My passion is turning messy, raw data into clean, reliable, and analysis-ready datasets.
 
-<br>
+- 🔭 I’m currently focused on building scalable ETL/ELT pipelines.
+- 🌱 I’m always learning, right now diving deeper into the modern data stack (like **dbt** & **Airflow**).
+- ☁️ Getting hands-on with **AWS** and exploring cloud-native data solutions.
+- 👯 I’m open to collaborating on open-source data engineering projects!
+- ⚡ Fun fact: I despise snakes, but I love Python.
+- 📫 How to reach me: **theharshchandrakar@outlook.com**
 
-**What I'm up to:**
-- 🔭 Building and optimizing data models and ETL/ELT workflows.
-- 🌱 Exploring modern data stack tools like **dbt**, **Apache Airflow**, and **Spark**.
-- ☁️ Expanding my cloud engineering skills, particularly with **AWS** services.
-
-**Let's Connect:**
-- 👯 I’m looking to collaborate on challenging **data engineering** and **infrastructure** projects.
-- 💬 Ask me about **Python for data pipelines, SQL, database design, or cloud architecture**!
-- 📫 You can reach me at **theharshchandrakar@outlook.com**.
 ---
 
-### 🛠️ My Tech Stack & Tools
-
-My toolkit is geared towards the entire data engineering pipeline, from ingestion and storage to transformation and serving.
+### 🛠️ My Toolkit
 
 <p align="left">
   <strong>Languages & Scripting:</strong><br>
@@ -50,7 +44,7 @@ My toolkit is geared towards the entire data engineering pipeline, from ingestio
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" alt="airflow" width="40" height="40"/></a>
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" in="40" height="40"/></a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 </p>
 <p align="left">
@@ -65,7 +59,7 @@ My toolkit is geared towards the entire data engineering pipeline, from ingestio
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Icon-Black.png" alt="powerbi" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="httpsD://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
 <p align="left">
   <strong>Version Control:</strong><br>
