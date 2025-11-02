@@ -42,8 +42,7 @@ Hey there! I'm a data engineer who loves designing and building the "plumbing" o
 <p align="left">
   <strong>Data Processing & Orchestration:</strong><br>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Rikashiii/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Rikashiii/devicon/master/icons/airflow/airflow-original.svg" alt="airflow" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Rikashiii/devicon/master/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Rikashiii/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Rikashiii/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Rikashiii/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
 </p>
