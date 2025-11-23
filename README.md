@@ -9,7 +9,7 @@
 
 ### 👾 About Me
 
-Hey there! I'm a data engineer who loves designing and building the "plumbing" of the data world. My passion is turning messy, raw data into clean, reliable, and analysis-ready datasets using Python, advanced SQL, and big data technologies.
+Dedicated to unlocking the true value of data. I design the underlying structures that ensure information is clean, dependable, and ready to be used for high-impact decision-making.
 
 - 🔭 I’m currently focused on building scalable ETL/ELT pipelines, especially for big data ecosystems like Hadoop.
 - 🌱 I’m always learning, right now diving deeper into the modern data stack (like dbt & Airflow).
