@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rikashiii/Rikashiii/blob/738b6c24e0a0c538629e013090b475868e96826d/Gemini_Generated_Image_cfuii9cfuii9cfui%20(1).png" alt="Welcome to my profile!">
+  <img src="Github_Cover.png" alt="Welcome to my profile!">
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
