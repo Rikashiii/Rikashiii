@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Harsh Chandrakar</h1>
-<h3 align="center">Data Engineer 🚀 | I build the pipelines that make insights possible.</h3>
+<h3 align="center">Data Engineer 🚀 | (cool caption upcoming) <h3>
 
 ---
 
