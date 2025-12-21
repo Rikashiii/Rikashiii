@@ -2,7 +2,7 @@
   <img src="Github_Cover.png" alt="Welcome to my profile!">
 </p>
 
-<h1 align="center">Hi, I'm Harsh Chandrakar</h1>
+<h1 align="center">Hii, I'm Harsh Chandrakar</h1>
 <h3 align="center">Data Engineer 🚀 | (cool caption upcoming) <h3>
 
 ---
